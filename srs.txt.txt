@@ -1,0 +1,53 @@
+Software Requirement Specification ::
+
+Software Requirements Specification (SRS):
+
+Srs  documents are essential for defining the scope and functionality. Here is an example of an SRS document for an online.
+ Title:
+Online project management software project.
+Team:
+1.Buisness Analyst.
+2.Data Analyst.
+3.Developers.
+4.Quality Assurance Team.
+5.Marketting Team.
+
+Introduction :
+The online project management system is a web-based application designed to help project managers and teams manage projects more efficiently. The system will provide features for creating and managing projects, assigning tasks to team members, tracking progress, and generating reports.
+Obective(Purpose):
+The objective of the online project management software which will create a platform for the users i.e for the employee and the manager for the connecting through a single interface.This System will help employee, projects going on in the organization.
+Scope:
+The software will be provide 24 hours services to the users. The system will help the  to assign the task to the team, can keep the progress report 
+
+*Functional Requirements of Final Year Project Management System
+Profiles:
+Profile module enables Manager to add the Employee to the project. Employee can see the profile of Manager and vise-versa and can send requests to them.
+ Managers can respond to Employees requests according to their available slots.
+Feedback: Feedback modules enable Manger to give feedback to Employees on their assigned project module. This feature not only saves the time of Employee and Manager but also helps Employees to increase their performance if they are lacging behind.
+Notifications:This module has notifictation which works on real-time push notification features. Manager can use these features for sending meeting schedules to Employees at anytime. Employees can receive the meeting schedule at the same time when it is send from Manager.This features can help Employees to attend meetings right on time also Employees can get updates directly from manager.
+Chat: This feature enables the communication between Employee. Employee can communicate with their group members. They can do a discussion about projects by using this feature
+
+•Non-Functional Requirements:
+1.Availability:
+The System should be Available 24*7. Manager and Employees can access the system and can communicate with eachother anytime and anywhere.
+2.Reliability:
+The Sysem should be more reliable. The software can be runned on any device anywhere and anytime.
+The System should Work on any O.S(Operating System).
+3.Security :The System should be more Secure so that it can keep the information of the manager and the Employees. The System should be backed up by the Security Systems to prevent the External Attacks.
+4.System Dependencies :
+The System should be Developed using the Web technologies for the better efficienency and  Better User-Interface. The System should also deployed using Aws and Docker so that it can be Accesed by multiple users using the Single Ip.
+Front-end technologies: Html,Css,Javascript,Reactjs
+Backend: Nodejs, Mysql / Sql / mongodb.
+Hosting: Aws, Docker.
+The system should be Accessible from any browsers like Chrome, Firefox, Safari, Brave, etc.
+
+
+Project Managers: These are the individuals responsible for planning, executing, and closing projects using the online project management system. They may use the platform to create 
+and assign tasks, track progress, and communicate with team members.
+
+Team Members: These are the individuals who are assigned tasks and work on projects using the online project management system. They may use the platform to view their tasks, provide 
+updates, and communicate with other team members.
+Clients: These are the individuals or organizations for whom the projects are being completed. They may have access to the online project management system to view project progress, 
+provide feedback, and communicate with the project team.
+
+
